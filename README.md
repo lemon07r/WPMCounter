@@ -24,3 +24,5 @@ or (Windows)
 \path\to\nw.exe .
 ```
 On Windows, you can also just drag the folder containing package.json (the project folder) to nw.exe to run the app.
+
+See http://docs.nwjs.io/en/latest/For%20Users/Getting%20Started/#example-1-hello-world for more information.
