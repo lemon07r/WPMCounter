@@ -11,6 +11,15 @@ Currently in development.
 
 Requirements: NW.js, and npm.
 
+Clone the repo with git
+```bash
+git clone https://github.com/lemon07r/WPMCounter.git
+```
+Change your working directory to the project directory
+```bash
+cd WPMCounter
+```
+
 From project directory:
 ```bash
 npm install
@@ -18,6 +27,10 @@ npm install
 then (Linux)
 ```bash
 /path/to/nw .
+```
+or (MacOS)
+```bash
+/path/to/nwjs.app/Contents/MacOS/nwjs .
 ```
 or (Windows)
 ```powershell
