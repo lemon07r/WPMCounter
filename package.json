@@ -1,0 +1,7 @@
+{
+  "name": "wpmcounter",
+  "main": "index.html",
+  "dependencies": {
+    "iohook": "^0.4.5"
+  }
+}
