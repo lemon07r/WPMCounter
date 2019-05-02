@@ -1,12 +1,13 @@
 # WPMCounter
 NW.js based WPM counter using iohook.
 
-iohook: https://github.com/wilix-team/iohook
 NW.js: https://nwjs.io/
+
+iohook: https://github.com/wilix-team/iohook
 
 Currently in development. 
 
-To test you need NW.js, and npm.
+##Testing requirements are NW.js, and npm.
 
 From project directory:
 ```bash
