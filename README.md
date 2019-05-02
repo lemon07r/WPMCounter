@@ -19,11 +19,12 @@ Change your working directory to the project directory
 ```bash
 cd WPMCounter
 ```
-
 From project directory:
 ```bash
 npm install
 ```
+After downloading and extracting NW.js from https://nwjs.io/downloads/
+
 then (Linux)
 ```bash
 /path/to/nw .
