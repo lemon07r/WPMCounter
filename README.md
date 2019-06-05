@@ -9,7 +9,7 @@ Currently in development.
 
 ## Testing 
 
-Requirements: NW.js, and npm.
+Requirements: NW.js, and npm. Windows requires the Microsoft Visual C++ Redistributable for iohook https://aka.ms/vs/16/release/vc_redist.x64.exe.
 
 Clone the repo with git
 ```bash
