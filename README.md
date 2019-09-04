@@ -23,7 +23,7 @@ From project directory:
 ```bash
 npm install
 ```
-After downloading and extracting NW.js from https://nwjs.io/downloads/
+After downloading and extracting NW.js from https://nwjs.io/downloads/ run the relevant command:
 
 then (Linux)
 ```bash
