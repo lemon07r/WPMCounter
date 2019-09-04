@@ -25,15 +25,15 @@ npm install
 ```
 After downloading and extracting NW.js from https://nwjs.io/downloads/ run the relevant command:
 
-then (Linux)
+(Linux)
 ```bash
 /path/to/nw .
 ```
-or (MacOS)
+(MacOS)
 ```bash
 /path/to/nwjs.app/Contents/MacOS/nwjs .
 ```
-or (Windows)
+(Windows)
 ```powershell
 \path\to\nw.exe .
 ```
