@@ -2,6 +2,7 @@
   "name": "wpmcounter",
   "main": "index.html",
   "dependencies": {
-    "iohook": "^0.4.5"
+    "iohook": "^0.4.6",
+    "prettier": "^1.17.1"
   }
 }
